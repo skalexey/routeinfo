@@ -6,6 +6,7 @@ Usage:
 python routeinfo.py google.com
 
 Output
+
   8     5 ms     3 ms     3 ms  5.143.253.245   Moscow, Moscow, AS12389 PJSC Rostelecom
   9     3 ms     *       15 ms  108.170.250.113         Leningradskaya Oblast', Kirishi, AS15169 Google LLC
  10    22 ms    18 ms     *     142.251.49.158  New York, New York City, AS15169 Google LLC
